@@ -7,6 +7,7 @@ import Header from "./components/Header";
 import Hero from "./components/Hero";
 import MediaKit from "./components/MediaKit";
 import Overview from "./components/Overview";
+import Sponsorship from "./components/Sponsorship";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Header />
       <Hero />
       <MediaKit />
+      <Sponsorship />
       <Overview />
       <Advertising />
       <Contact />

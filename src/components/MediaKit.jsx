@@ -108,7 +108,7 @@ const MediaKit = () => (
     <div className="container mx-auto px-4 max-w-6xl">
       <div className="mb-10 text-center">
         <h2 className="text-4xl font-bold mb-2 text-ctg-red font-roboto drop-shadow-lg">
-          ctgPost
+          ctgpost
         </h2>
         <p className="text-lg font-semibold mb-1 font-roboto">
           Web Ad / Campaign Title
@@ -127,10 +127,10 @@ const MediaKit = () => (
           </a>{" "}
           /{" "}
           <a
-            href="https://bn.ctgpost.news"
+            href="https://en.ctgpost.news"
             className="text-ctg-red underline hover:text-white transition-colors"
           >
-            bn.ctgpost.news
+            en.ctgpost.news
           </a>
         </p>
       </div>
@@ -140,7 +140,7 @@ const MediaKit = () => (
         </h3>
         <ul className="list-disc list-inside text-gray-200 space-y-2">
           <li>
-            ctgPost is a leading web portal in Chittagong, known as a trusted
+            ctgpost is a leading web portal in Chittagong, known as a trusted
             and fact-checked news agency.
           </li>
           <li>Operates in both online and print media.</li>
